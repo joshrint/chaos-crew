@@ -1,0 +1,5 @@
+- Congregation - The Night Hawk has it (Dane)
+- Rictus haven - Around the neck of an entertainer (Lixi)
+- Atherand (Vikku)
+- Southern Embermane - In a Dragon’s Horde (Mag)
+- Dreles - High Priest of the Drowned (Barnabas)
