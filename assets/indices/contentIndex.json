@@ -1,0 +1,272 @@
+{
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/1.-PCs/Dane-Hallowsun": {
+    "title": "Dane Hallowsun",
+    "content": "### Rest of the Party\n\n* [Vikku Greytail](Vikku%20Greytail.md)\n* [Dane Hallowsun](Dane%20Hallowsun.md)\n* [Lixivium Pearlash](Lixivium%20Pearlash.md)\n* [Mag Vell](Mag%20Vell.md)\n\n### Abilities\n\n|Ability|Score|\n|-------|-----|\n|**AC**|14/17(Blade Song)|\n|**Passive Perception**|10|\n|**Passive Investigation**|15|\n|**Passive Insight**|10|\n|**Languages**|Abyssal, Common, Infernal|\n\n### NPCs\n\n### Quests\n\n### Notes\n",
+    "lastmodified": "2024-03-27T12:38:05.0251942-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/1.-PCs/Lixivium-Pearlash": {
+    "title": "Lixivium Pearlash",
+    "content": "### Rest of the Party\n\n* [Vikku Greytail](Vikku%20Greytail.md)\n* [Dane Hallowsun](Dane%20Hallowsun.md)\n* [Mag Vell](Mag%20Vell.md)\n* [Dane Hallowsun](Dane%20Hallowsun.md)\n\n### Abilities\n\n|Ability|Score|\n|-------|-----|\n|**AC**|15|\n|**Passive Perception**|9|\n|**Passive Investigation**|16|\n|**Passive Insight**|9|\n|**Languages**|Common, Goblin|\n\n### NPCs\n\n[Alomar Semyfur](..\\2.%20NPCs\\Other\\Alomar%20Semyfur.md)\n\n### Quests\n\n### Notes\n\n* Has 66669 GP of Dragon Powder on their person\n* Alias - Basket Epheram - Given to guard in docks\n",
+    "lastmodified": "2024-03-27T12:38:05.0241944-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/1.-PCs/Mag-Vell": {
+    "title": "Mag Vell",
+    "content": "### Rest of the Party\n\n* [Vikku Greytail](Vikku%20Greytail.md)\n* [Dane Hallowsun](Dane%20Hallowsun.md)\n* [Lixivium Pearlash](Lixivium%20Pearlash.md)\n* [Dane Hallowsun](Dane%20Hallowsun.md)\n\n### Abilities\n\n|Ability|Score|\n|-------|-----|\n|**AC**|15|\n|**Passive Perception**|11|\n|**Passive Investigation**|9|\n|**Passive Insight**|9|\n|**Languages**|Common, Infernal, Orc|\n\n### NPCs\n\n[Zinnega Lunarstride](..\\2.%20NPCs\\Drakemaw\\Zinnega%20Lunarstride.md)\n[Barnabas Fleetfoot](..\\2.%20NPCs\\Fleetfoot\\Barnabas%20Fleetfoot.md)\n[Eckic Pluma](..\\2.%20NPCs\\Watermole\\Eckic%20Pluma.md)\n\n### Quests\n\n### Notes\n",
+    "lastmodified": "2024-03-27T12:38:05.0251942-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/1.-PCs/Vikku-Greytail": {
+    "title": "Vikku Greytail",
+    "content": "### Rest of the Party\n\n* [Dane Hallowsun](Dane%20Hallowsun.md)\n* [Lixivium Pearlash](Lixivium%20Pearlash.md)\n* [Mag Vell](Mag%20Vell.md)\n* [Dane Hallowsun](Dane%20Hallowsun.md)\n\n### Abilities\n\n|Ability|Score|\n|-------|-----|\n|**AC**|19|\n|**Passive Perception**|21|\n|**Passive Investigation**|9|\n|**Passive Insight**|16|\n|**Languages**|Common, Draconic, Infernal, Minotaur|\n\n### NPCs\n\n### Quests\n\n### Notes\n",
+    "lastmodified": "2024-03-27T12:38:05.0371971-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/2.-NPCs/Congregation/Congregation-Mooks": {
+    "title": "Congregation Mooks",
+    "content": "* ~~Blue Jerry - Dead - Worked for [Orika](Orika.md)~~\n* Blue Barry - Worked for [Orika](Orika.md)\n\n## Tags\n\n\\#Congregation #Criminal #Mook #NPC \n",
+    "lastmodified": "2024-03-27T12:38:05.0491996-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/2.-NPCs/Congregation/Congregation-Sea-Hags": {
+    "title": "Congregation Sea Hags",
+    "content": "Wildrud - Dead\nHassa - Dead\nGerlind - Dead\n\n## Tags\n\n\\#Dead #Congregation #Hag #Cult-Of-The-Drowned\n",
+    "lastmodified": "2024-03-27T12:38:05.0241944-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/2.-NPCs/Congregation/Islik": {
+    "title": "Islik",
+    "content": "## Location\n\n[Congregation](..\\..\\3.%20The%20World\\Zoa%20Confederacy\\Congregation.md)\n\n## Notes\n\nRace: Woodpecker Aarakocra\nGender: Male\n\nOnce a contender to become the captain of the guards. He was radicalized into separating Congregation from the rest of the world.\n\n## Stats\n\n````statblock\nimage: [[Wikilink To Image]]\nname: Islik\nsize: Medium\ntype: Aarakocra\nalignment: LE\nac: 16\nhp: 71\nspeed: 30\nstats: [16, 14, 14, 11, 10, 15]\nskillsaves:\n  - Animal Handling: 2\n  - Athletics: 5\n  - Deception: 4\n  - Persuasion: 4\nsenses: passive Perception 10\nlanguages: Auran, Common\ncr: 3\nspells:\n  - Islik is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). Islik knows the following sorcerer spells\n  - Cantrips (at will): booming blade, gust, light, message, ray of frost\n  - 1st level (4 slots): expeditious rereat, ice knife, false life\n  - 2nd level (3 slots): cloud of daggers, misty step\n  - 3rd level (2 slots): haste\nactions:\n  - name: Multiattack\n    desc: Islik can make 2 melee attacks\n  - name: Greatsword\n    desc: Melee attack +5(2d6+3) slashing\n  - name: Lance\n    desc: Melee attack +5(1d12+3) piercing  \nreactions:\n  - name: Parry\n    desc: Islik adds 2 to his AC against one melee attack that would hit him\n````\n\n## Tags\n\n\\#Congregation #Unclipped-Wing #NPC #Boss\n",
+    "lastmodified": "2024-03-27T12:38:05.0401976-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/2.-NPCs/Congregation/Khess-Hallowsun": {
+    "title": "Khess Hallowsun",
+    "content": "## Location\n\n[Congregation](..\\..\\3.%20The%20World\\Zoa%20Confederacy\\Congregation.md)\n\n## Notes\n\nRace: Peacock Aarakocra\nGender: Male\n\n* Transformed into an Avatar of the sky during battle.\n* Older Brother Durik - Killed in an early Unclipped Wings rally\n* Killed by the party in Avatar form.\n\n## Partners\n\n[ Orika - Deceased ](Orika.md)\n[Islik](Islik.md) \n[The Unclipped Wings](The%20Unclipped%20Wings.md)\n\n## Tags\n\n\\#NPC #Unclipped-Wing #Guard #Dead \n",
+    "lastmodified": "2024-03-27T12:38:05.0501999-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/2.-NPCs/Congregation/Orika": {
+    "title": "Orika",
+    "content": "## Location\n\n[Congregation](..\\..\\3.%20The%20World\\Zoa%20Confederacy\\Congregation.md)\n[ The Roost Nightclub](..\\..\\3.%20The%20World\\Zoa%20Confederacy\\Congregation.md#the-roost-nightclub)\n\n## Notes\n\nRace: Kestral Aarakocra\n\nContact for Alomar from the Unclipped Wings.\n\nDefeated by the Crew. Wings broken by Mag.\n\nStatus: Dead\n\n## Partners\n\n[Islik](Islik.md)\n[Khess Hallowsun](Khess%20Hallowsun.md)\n\n## Tags\n\n\\#Unclipped-Wing #Criminal #Dead\n",
+    "lastmodified": "2024-03-27T12:38:05.0552012-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/2.-NPCs/Congregation/Sparky": {
+    "title": "Sparky",
+    "content": "## Location\n\n[Congregation](..\\..\\3.%20The%20World\\Zoa%20Confederacy\\Congregation.md)\n\n## Notes\n\nRace: Chicken Aarakocra\nGender: Male\n\n## Tags\n\n\\#Guard #Congregation\n",
+    "lastmodified": "2024-03-27T12:38:05.0542007-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/2.-NPCs/Congregation/The-Unclipped-Wings": {
+    "title": "The Unclipped Wings",
+    "content": "## Notes\n\nThe Unclipped Wings are allegedly grouped into 2 parts: A Political party, and a terrorist organization. They are one and the same.\n\nThey boast wanting to free Congregation from the rest of Zoa but have gone about it in a violent way.\n\n## Members\n\n[Khess Hallowsun](Khess%20Hallowsun.md)\n[Orika](Orika.md)\n[Islik](Islik.md)\n[Congregation Sea Hags](Congregation%20Sea%20Hags.md)\n\n# Tags\n\n\\#Criminal #Congregation\n",
+    "lastmodified": "2024-03-27T12:38:05.0542007-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/2.-NPCs/Cult-of-the-Drowned/The-Mariner": {
+    "title": "The Mariner",
+    "content": "## Location\n\n## Notes\n\nRace: Unknown\nAge: Unknown\nGender: Unknown\n\n## Tags\n\n\\#Cult-Of-The-Drowned #Boss #NPC \n",
+    "lastmodified": "2024-03-27T12:38:05.0241944-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/2.-NPCs/Drakemaw/Adela": {
+    "title": "Adela",
+    "content": "## Location\n\n[Drakemaw](..\\..\\3.%20The%20World\\Zoa%20Confederacy\\Drakemaw.md)\n\n## Notes\n\nRace: Lizardfolk\nAge: Unknown\nMember of the Ravenshields\n\n## Partners\n\n[Agi](Agi.md)\n[Preun](Preun.md)\n\n## Links\n\n\\#Criminal #Drakemaw #Ravenshields\n",
+    "lastmodified": "2024-03-27T12:38:05.0341963-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/2.-NPCs/Drakemaw/Agi": {
+    "title": "Agi",
+    "content": "## Location\n\n[Drakemaw](..\\..\\3.%20The%20World\\Zoa%20Confederacy\\Drakemaw.md)\n\n## Notes\n\nRace: Half Orc\nAge: Unknown\nMember of the Ravenshields\n\n## Partners\n\n[Adela](Adela.md)\n[Preun](Preun.md)\n\n## Links\n\n\\#Criminal #Drakemaw #Ravenshields #NPC\n",
+    "lastmodified": "2024-03-27T12:38:05.0501999-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/2.-NPCs/Drakemaw/Drakemaw-Mooks": {
+    "title": "Drakemaw Mooks",
+    "content": "* Two Faced Ralph\n* Nine Toed Ralph\n* \n\n## Tags\n\n\\#Drakemaw #Criminal #Mook #NPC \n",
+    "lastmodified": "2024-03-27T12:38:05.0572016-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/2.-NPCs/Drakemaw/Preun": {
+    "title": "Preun",
+    "content": "## Location\n\n[Drakemaw](..\\..\\3.%20The%20World\\Zoa%20Confederacy\\Drakemaw.md)\n\n## Notes\n\nRace: Shadar Kai\nAge: Unknown\nMember of the Ravenshields\nAlmost Killed Dane\n\n## Partners\n\n[Agi](Agi.md)\n[Adela](Adela.md)\n\n## Links\n\n\\#Criminal #Drakemaw #Ravenshields #Dane #NPC \n",
+    "lastmodified": "2024-03-27T12:38:05.0562019-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/2.-NPCs/Drakemaw/Selene-the-Silver-Eye": {
+    "title": "Selene the Silver Eye",
+    "content": "## Location\n\n[Drakemaw](..\\..\\3.%20The%20World\\Zoa%20Confederacy\\Drakemaw.md)\n\n## Notes\n\nRace: Unknown\nAge: Unknown\nLeader of the Ravenshields\n\nWas willing to help out but was attacked by a reckless Mag.\nMag pissed her off when he tried to attack her\n\n## Partners\n\n[Agi](Agi.md)\n[Adela](Adela.md)\n[Preun](Preun.md)\n\n## Links\n\n\\#Criminal #Drakemaw #Ravenshields #Mag #Boss #NPC\n",
+    "lastmodified": "2024-03-27T12:38:05.0612028-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/2.-NPCs/Drakemaw/The-Badger": {
+    "title": "The Badger",
+    "content": "## Location\n\n[Drakemaw](..\\..\\3.%20The%20World\\Zoa%20Confederacy\\Drakemaw.md)\n\n## Notes\n\nRace: Beastman - Badger\nGender: Male\nAge: 34\nOne of the Criminal bosses in town\n\n## Links\n\n\\#Mag #Drakemaw #Criminal #Boss #NPC\n",
+    "lastmodified": "2024-03-27T12:38:05.0421981-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/2.-NPCs/Drakemaw/Zinnega-Lunarstride": {
+    "title": "Zinnega Lunarstride",
+    "content": "## Location\n\n[Drakemaw](..\\..\\3.%20The%20World\\Zoa%20Confederacy\\Drakemaw.md)\n\n## Notes\n\nRace: Leonin\nGender: F\nLeader of the Nightclaws\nHas a Displacer Beast as a pet (Burned by Mag)\nHates Mag\n\n## Links\n\n\\#Mag #Drakemaw #Criminal #Boss #NPC\n",
+    "lastmodified": "2024-03-27T12:38:05.0582018-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/2.-NPCs/Fleetfoot/Barbena-Fleetfoot": {
+    "title": "Barbena Fleetfoot",
+    "content": "## Location\n\n[Drakemaw](..\\..\\3.%20The%20World\\Zoa%20Confederacy\\Drakemaw.md)\n\n## Notes\n\nRace: Harrengon\nGender: Female\nAge: 21\n\nOwner of [Fleetfoot's Gearworks](..\\..\\3.%20The%20World\\Zoa%20Confederacy\\Drakemaw\\Fleetfoot's%20Gearworks.md)\n\nWell kept in finely tailored clothing. Her fur is white and has many metal earings in her lopears.\n\n**Personality:** She tends to be very friendly, and is drawn to music\n\n**History:** She used to be a pit fighter in her past.\n\n#### Family:\n\n* Mother: Thea Fleetfoot\n* Father: Siward Fleetfood\n* Brothers: Barnabus, Barnaby, Barkley, Bartel,\n* Sisters: Barlin, Barbara, Barika, Barsha, Barsiha\n\n## Links\n\n[Barsha Fleetfoot](Barsha%20Fleetfoot.md)\n[Barnabas Fleetfoot](Barnabas%20Fleetfoot.md)\n\n## Tags\n\n\\#Barnabas #Drakemaw #ShopOwner #Fleetfoot #NPC\n",
+    "lastmodified": "2024-03-27T12:38:05.0582018-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/2.-NPCs/Fleetfoot/Barnabas-Fleetfoot": {
+    "title": "Barnabas Fleetfoot",
+    "content": "## Location\n\n[Drakemaw](..\\..\\3.%20The%20World\\Zoa%20Confederacy\\Drakemaw.md), [Watermole](..\\..\\3.%20The%20World\\Watermole.md)\n\n## Notes\n\nRace: Harrengon\nGender: Male\nSwashbucker Rogue\nAge: 21\n\nWell kept and enthusiastic friend of Mag.\n\n**Personality:** She tends to be very friendly, and is drawn to music\n\n**History:** Was the first to get the coins and decided who to get the other 4. Enabled them to get it.\n\n#### Family:\n\n* Mother: Thea Fleetfoot\n* Father: Siward Fleetfood\n* Brothers: Barnaby, Barkley, Bartel,\n* Sisters: Barlin, Barbara, Barika, Barsha, Barsiha, Barbena\n\n## Links\n\n[Barsha Fleetfoot](Barsha%20Fleetfoot.md)\n[Barbena Fleetfoot](Barbena%20Fleetfoot.md)\n[Mag Vell](..\\..\\1.%20PCs\\Mag%20Vell.md)\n\n## Tags\n\n\\#Barnabas #Drakemaw #Fleetfoot #NPC #Mag #Criminal\n",
+    "lastmodified": "2024-03-27T12:38:05.0582018-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/2.-NPCs/Fleetfoot/Barsha-Fleetfoot": {
+    "title": "Barsha Fleetfoot",
+    "content": "## Location\n\n[Drakemaw](..\\..\\3.%20The%20World\\Zoa%20Confederacy\\Drakemaw.md)\n\n## Notes\n\nRace: Harrengon\nGender: Female\nAge: 20\n\nOwner of [Fleetfoot's Mortar](..\\..\\3.%20The%20World\\Zoa%20Confederacy\\Drakemaw\\Fleetfoot's%20Mortar.md)\n\n#### Family:\n\n* Mother: Thea Fleetfoot\n* Father: Siward Fleetfood\n* Brothers: Barnabus, Barnaby, Barkley, Bartel,\n* Sisters: Barlin, Barbara, Barika, Barsiha, Barbena\n\n## Links\n\n[Barbena Fleetfoot](Barbena%20Fleetfoot.md)\n[Barnabas Fleetfoot](Barnabas%20Fleetfoot.md)\n\n## Tags\n\n\\#Barnabas #Drakemaw #ShopOwner #Fleetfoot #NPC\n",
+    "lastmodified": "2024-03-27T12:38:05.0572016-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/2.-NPCs/Other/Alomar-Semyfur": {
+    "title": "Alomar Semyfur",
+    "content": "## Location\n\n[Congregation](..\\..\\3.%20The%20World\\Zoa%20Confederacy\\Congregation.md)\n\n## Notes\n\nRace: Goblin\nAge: Unknown\n\nHad set up shop in [Congregation](..\\..\\3.%20The%20World\\Zoa%20Confederacy\\Congregation.md) to sell questionably legal goods.\nHe was selling Dragon Powder to [The Unclipped Wings](..\\Congregation\\The%20Unclipped%20Wings.md) but was driven out after they found out he had sold them out.\n\nHe's moved his operation to Rictus' Haven\n\nOriginally from Lixi's home.\n\n## Tags\n\n\\#Lixi #Smuggler #Criminal\n",
+    "lastmodified": "2024-03-27T12:38:05.0612028-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/2.-NPCs/Watermole/Beelz": {
+    "title": "Beelz",
+    "content": "## Location\n\n[Watermole](..\\..\\3.%20The%20World\\Watermole.md)\n\n## Notes\n\nRace: Leonin\nGender: Male\n\nHas been [ Greer's](Captain%20Greer%20Blumenbach.md) First Mate for many years. Commands loyalty from the rest of the crew and hates when people aren't pulling their weight.\n\nDislikes [Mag Vell](..\\..\\1.%20PCs\\Mag%20Vell.md)\n\n## Tags\n\n\\#Watermole #Sailor #First-Mate #NPC\n",
+    "lastmodified": "2024-03-27T12:38:05.0251942-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/2.-NPCs/Watermole/Bilden": {
+    "title": "Bilden",
+    "content": "## Location\n\n[Watermole](..\\..\\3.%20The%20World\\Watermole.md)\n\n## Notes\n\nRace: Loxodon\nGender: Male\n\nRarely leaves the kitchen. Somewhat because he will cause the ship to list but also he feels safe there.\n\nGreat cook and always looking for suggestions on the food,\n\n## Tags\n\n\\#Watermole #Sailor #Cook\n",
+    "lastmodified": "2024-03-27T12:38:05.0341963-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/2.-NPCs/Watermole/Captain-Greer-Blumenbach": {
+    "title": "Captain Greer Blumenbach",
+    "content": "## Location\n\n## Notes\n\n## Links\n",
+    "lastmodified": "2024-03-27T12:38:05.0391978-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/2.-NPCs/Watermole/Daire": {
+    "title": "Daire",
+    "content": "## Location\n\n[Watermole](..\\..\\3.%20The%20World\\Watermole.md)\n[Congregation](..\\..\\3.%20The%20World\\Zoa%20Confederacy\\Congregation.md)\n\n## Notes\n\nRace: Tabaxi\nAge: 18\n\nStole Dragon Powder from [Selene the Silver Eye](..\\Drakemaw\\Selene%20the%20Silver%20Eye.md) and was going to deliver it to [Alomar Semyfur](..\\Other\\Alomar%20Semyfur.md) in [Congregation](..\\..\\3.%20The%20World\\Zoa%20Confederacy\\Congregation.md). Lixi found it and took it from it's hiding place not knowing what it was.\n\n## Tags\n\n\\#Watermole #Sailor\n",
+    "lastmodified": "2024-03-27T12:38:05.0251942-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/2.-NPCs/Watermole/Eckic-Pluma": {
+    "title": "Eckic Pluma",
+    "content": "## Location\n\n[Congregation](..\\..\\3.%20The%20World\\Zoa%20Confederacy\\Congregation.md)\n\n## Notes\n\nRace: Budgie Aarakocra\nGender: Male\n\nWas extorted into working for [The Unclipped Wings](..\\Congregation\\The%20Unclipped%20Wings.md) by [Orika](..\\Congregation\\Orika.md). Killed his boss with an invisible dagger purchased from [Alomar Semyfur](..\\Other\\Alomar%20Semyfur.md).\n\n[Mag Vell](..\\..\\1.%20PCs\\Mag%20Vell.md) adopted him as a mook and he now works for him on the ship.\n\n## Tags\n\n\\#Mook #NPC #Sailor #Gambler\n",
+    "lastmodified": "2024-03-27T12:38:05.0251942-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/2.-NPCs/Watermole/Edna": {
+    "title": "Edna",
+    "content": "## Location\n\n[Watermole](..\\..\\3.%20The%20World\\Watermole.md)\n\n## Notes\n\nRace: Beatman\nGender: Female\n\n## Tags\n\n\\#Watermole #Sailor #NPC\n",
+    "lastmodified": "2024-03-27T12:38:05.0261946-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/2.-NPCs/Watermole/Ketziah": {
+    "title": "Ketzi'ah",
+    "content": "## Location\n\n[Watermole](..\\..\\3.%20The%20World\\Watermole.md)\n\n## Notes\n\nRace: Sea Elf\nGender: Male\n\nConstantly in the crows nest on lookout. \nHad something happen in his home and hates being near the water.\n\n## Tags\n\n\\#Watermole #Sailor #Elf #NPC\n",
+    "lastmodified": "2024-03-27T12:38:05.0261946-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/2.-NPCs/Watermole/Welend": {
+    "title": "Welend",
+    "content": "## Location\n\n[Watermole](..\\..\\3.%20The%20World\\Watermole.md)\n\n## Notes\n\nRace: Tortle\nGender: Male\n\nDeckhand.\nHad to follow Lixi around on their first day.\n\n## Tags\n\n\\#Watermole #Sailor #Deckhand #NPC\n",
+    "lastmodified": "2024-03-27T12:38:05.0371971-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/2.-NPCs/zzNPC-Template": {
+    "title": "zzNPC Template",
+    "content": "## Location\n\n## Notes\n\nRace:\nGender:\n\n## Tags\n",
+    "lastmodified": "2024-03-27T12:38:05.0481995-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/3.-The-World/Rictus-Haven/Rictus-Haven": {
+    "title": "Rictus Haven",
+    "content": "\n",
+    "lastmodified": "2024-03-27T12:38:05.0261946-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/3.-The-World/Rictus-Haven/Those-Who-Remain": {
+    "title": "Those Who Remain",
+    "content": "# History\n\nThose Who Remain are sentient creatures that contracted the Spell Plague and were given eternal life as a sentient undead. \n",
+    "lastmodified": "2024-03-27T12:38:05.0381971-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/3.-The-World/Watermole": {
+    "title": "Watermole",
+    "content": "## Notes\n\n* [Captain Greer Blumenbach](..\\2.%20NPCs\\Watermole\\Captain%20Greer%20Blumenbach.md)'s ship\n* Was a sea tour ship before taking on this job.\n\n## Crew of the Watermole\n\n* [Captain Greer Blumenbach](..\\2.%20NPCs\\Watermole\\Captain%20Greer%20Blumenbach.md) - Captain\n* [Edna](..\\2.%20NPCs\\Watermole\\Edna.md) - Beastman Deckhand\n* [Daire](..\\2.%20NPCs\\Watermole\\Daire.md) - Tabaxi Monk\n* [Bilden](..\\2.%20NPCs\\Watermole\\Bilden.md) - Loxodon Cook\n* [Beelz](..\\2.%20NPCs\\Watermole\\Beelz.md), Leonin First Mate\n* [Welend](..\\2.%20NPCs\\Watermole\\Welend.md) - Tortle Cabin Boy\n* [Ketzi'ah](..\\2.%20NPCs\\Watermole\\Ketzi'ah.md) - Elf Lookout\n* [ Eckic](..\\2.%20NPCs\\Watermole\\Eckic%20Pluma.md) - Budgie Aarakocra - Works for Mag?\n",
+    "lastmodified": "2024-03-27T12:38:05.0522004-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/3.-The-World/Zoa-Confederacy/Congregation": {
+    "title": "Congregation",
+    "content": "## The Roost Nightclub\n\nAn Unclipped Wings run nightclub. Run by [Orika](..\\..\\2.%20NPCs\\Congregation\\Orika.md). Was burned down after the part defeated Orika.\n\n## Map\n\n````leaflet\nid: congregation-map \nimage: [[congregation.png]]\nheight: 500px \nwidth: 100% \nmaxZoom: 10\ndefaultZoom: 6\nunit: meters\nscale: 1\n````\n",
+    "lastmodified": "2024-03-27T12:38:05.0241944-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/3.-The-World/Zoa-Confederacy/Drakemaw": {
+    "title": "Drakemaw",
+    "content": "## Information\n\nType: City\nLeader: Xappan Clandestine - Male Tiefling\n\n## Locations\n\n[The Cracked Mast](Drakemaw\\The%20Cracked%20Mast.md)\n[Blackwing Scabbard](Drakemaw\\Blackwing%20Scabbard.md)\n[Fleetfoot's Gearworks](Drakemaw\\Fleetfoot's%20Gearworks.md)\n[Fleetfoot's Mortar](Drakemaw\\Fleetfoot's%20Mortar.md)\n*Madame Mouse's Honeypot Brothel*\n[Ground Up Tea and Coffee Shop](Drakemaw\\Ground%20Up%20Tea%20and%20Coffee%20Shop.md)\n\n## Map\n\n````leaflet\nid: congregation-map \nimage: [[drakemaw.png]]\nheight: 500px \nwidth: 100% \nmaxZoom: 10\ndefaultZoom: 6\nunit: meters\nscale: 1\n````\n\n## Tags\n\n\\#Drakemaw #Zoa-Confederacy\n",
+    "lastmodified": "2024-03-27T12:38:05.0411978-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/3.-The-World/Zoa-Confederacy/Drakemaw/Blackwing-Scabbard": {
+    "title": "Blackwing Scabbard",
+    "content": "## Information\n\nOwner: Forcast Mystery - Male Tiefling\n\nThe shop is a two-storey building of half-timbered walls, with carved wooden doors. A stele engraved with geometric patterns stands beside the building.\n\n## Inventory\n\n1. +1 Weapons (200gp + price of weapon)\n1. Sword of Vengeance (300gp)\n1. Adamantine Armor (400gp + price of armor)\n1. Mariner’s Armor (350gp)\n\n## Tags\n\n\\#Drakemaw #Blacksmith\n",
+    "lastmodified": "2024-03-27T12:38:05.0442391-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/3.-The-World/Zoa-Confederacy/Drakemaw/Fleetfoots-Gearworks": {
+    "title": "Fleetfoot's Gearworks",
+    "content": "## Information\n\nOwner: [Barbena Fleetfoot](..\\..\\..\\2.%20NPCs\\Fleetfoot\\Barbena%20Fleetfoot.md) - Female Harengon\n\nThe shop is a single storey timber and brick building, with dwarf-wrought iron furnishings. It is well lit by glowing gemstones set into the ceiling.\n\n## Inventory\n\n1. Ear Horn of Hearing (20gp)\n1. Wand of Magic Missiles (200gp)\n1. Instrument of Illusion (30gp)\n1. Moon Touched Sword (40gp)\n1. Silvered Dagger (10gp)\n1. Pole of Angling (30gp)\n1. Talking Doll (10gp)\n\n## Tags\n\n\\#Drakemaw #GeneralStore #Fleetfoot\n",
+    "lastmodified": "2024-03-27T12:38:05.0542007-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/3.-The-World/Zoa-Confederacy/Drakemaw/Fleetfoots-Mortar": {
+    "title": "Fleetfoot's Mortar",
+    "content": "## Information\n\nOwner: [Barsha Fleetfoot](..\\..\\..\\2.%20NPCs\\Fleetfoot\\Barsha%20Fleetfoot.md) - Female Harengon\n\nThe shop is a single storey timber and brick building, with dwarf-wrought iron furnishings. It is well lit by glowing gemstones set into the ceiling.\n\n## Inventory\n\n1. Potion of Climbing (common, dmg 187)\n1. Potion of Climbing (common, dmg 187)\n1. Potion of Climbing (common, dmg 187)\n1. Potion of Fire Breath (uncommon, dmg 187)\n1. Potion of Greater Healing (uncommon, dmg 187)\n1. Potion of Healing (common, dmg 187)\n1. Potion of Healing (common, dmg 187)\n1. Potion of Hill Giant Strength (uncommon, dmg 187)\n1. Potion of Water Breathing (uncommon, dmg 188)\n\n## Tags\n\n\\#Drakemaw #Alchemist #Fleetfoot #Lixi \n",
+    "lastmodified": "2024-03-27T12:38:05.0632028-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/3.-The-World/Zoa-Confederacy/Drakemaw/Ground-Up-Tea-and-Coffee-Shop": {
+    "title": "Ground Up Tea and Coffee Shop",
+    "content": "\n",
+    "lastmodified": "2024-03-27T12:38:05.0552012-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/3.-The-World/Zoa-Confederacy/Drakemaw/The-Cracked-Mast": {
+    "title": "The Cracked Mast",
+    "content": "## Information\n\nOwner: Naamah Cheer - Female Tiefling\n\n## Specials\n\n* Bison Soup (3 sp)\n* Beetroot Steamed Bun and a Glass of Brandy (4 sp)\n* Sausage Steamed Bun with Potatoes and a Tankard of Ale (5 sp)\n\n## Tags\n\n\\#Drakemaw #Inn #Vikku\n",
+    "lastmodified": "2024-03-27T12:38:05.0261946-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/Index": {
+    "title": "Index",
+    "content": "## PCs\n\n[Dane Hallowsun](1.%20PCs\\Dane%20Hallowsun.md)\n[Lixivium Pearlash](1.%20PCs\\Lixivium%20Pearlash.md)\n[Mag Vell](1.%20PCs\\Mag%20Vell.md)\n[Vikku Greytail](1.%20PCs\\Vikku%20Greytail.md)\n\n## The World\n\n### Zoa\n\n[Drakemaw](3.%20The%20World\\Zoa%20Confederacy\\Drakemaw.md)\n[Congregation](3.%20The%20World\\Zoa%20Confederacy\\Congregation.md)\n",
+    "lastmodified": "2024-03-27T12:38:05.0381971-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/Items/Artifacts/Key-to-the-Depths": {
+    "title": "Key to the Depths",
+    "content": "* Congregation - The Night Hawk has it (Dane)\n* Rictus haven - Around the neck of an entertainer (Lixi)\n* Atherand (Vikku)\n* Southern Embermane - In a Dragon’s Horde (Mag)\n* Dreles - High Priest of the Drowned (Barnabas)\n",
+    "lastmodified": "2024-03-27T12:38:05.0381971-07:00",
+    "tags": []
+  },
+  "C/Users/joshr/OneDrive/Documents/Obsidian/Quartz/quartz/content/Templates/custom-monster": {
+    "title": "custom monster",
+    "content": "\n````statblock\nimage: [[Wikilink To Image]]\nname: string\nsize: string\ntype: string\nsubtype: string\nalignment: string\nac: number\nhp: number\nhit_dice: string\nspeed: string\nstats: [number, number, number, number, number, number]\nfage_stats: [number, number, number, number, number, number, number, number, number]\nsaves:\n  - \u003cability-score\u003e: number\nskillsaves:\n  - \u003cskill-name\u003e: number\ndamage_vulnerabilities: string\ndamage_resistances: string\ndamage_immunities: string\ncondition_immunities: string\nsenses: string\nlanguages: string\ncr: number\nspells:\n  - \u003cdescription\u003e\n  - \u003cspell level\u003e: \u003cspell-list\u003e\ntraits:\n  - name: \u003ctrait-name\u003e\n    desc: \u003ctrait-description\u003e\n  - ...\nactions:\n  - name: \u003ctrait-name\u003e\n    desc: \u003ctrait-description\u003e\n  - ...\nlegendary_actions:\n  - name: \u003clegendary_actions-name\u003e\n    desc: \u003clegendary_actions-description\u003e\n  - ...\nbonus_actions:\n  - name: \u003ctrait-name\u003e\n    desc: \u003ctrait-description\u003e\n  - ...\nreactions:\n  - name: \u003creaction-name\u003e\n    desc: \u003creaction-description\u003e\n  - ...\n````\n",
+    "lastmodified": "2024-03-27T12:38:05.0451993-07:00",
+    "tags": []
+  }
+}
