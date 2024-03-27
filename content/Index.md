@@ -1,3 +1,9 @@
+---
+title: Chaos Crew
+draft: false
+tags:
+  - home
+---
 ## PCs
 [[Dane Hallowsun]]
 [[Lixivium Pearlash]]
