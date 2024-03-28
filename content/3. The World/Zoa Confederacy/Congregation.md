@@ -13,4 +13,5 @@ defaultZoom: 6
 unit: meters
 scale: 1
 ```
+![[congregation.png]]
 
