@@ -11,16 +11,8 @@ Leader: Xappan Clandestine - Male Tiefling
 [[Ground Up Tea and Coffee Shop]]
 
 ## Map
-```leaflet 
-id: congregation-map 
-image: [[drakemaw.png]]
-height: 500px 
-width: 100% 
-maxZoom: 10
-defaultZoom: 6
-unit: meters
-scale: 1
-```
+
+![[drakemaw.png]]
 
 ## Tags
 #Drakemaw #Zoa-Confederacy
