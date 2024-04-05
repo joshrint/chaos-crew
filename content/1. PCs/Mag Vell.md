@@ -17,8 +17,11 @@
 [[Zinnega Lunarstride]]
 [[Barnabas Fleetfoot]]
 [[Eckic Pluma]]
+[[Barry]]
+
 
 ### Quests
 
 
 ### Notes
+Paying Barry and Eckik 2gp a month

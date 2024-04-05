@@ -7,6 +7,8 @@ Gender: Male
 
 Once a contender to become the captain of the guards. He was radicalized into separating Congregation from the rest of the world.
 
+
+
 ## Stats
 ```statblock
 image: [[Wikilink To Image]]
@@ -45,4 +47,4 @@ reactions:
 ```
 
 ## Tags
-#Congregation #Unclipped-Wing #NPC #Boss
+#Congregation #Unclipped-Wing #NPC #Boss #Dead 
