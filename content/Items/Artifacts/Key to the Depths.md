@@ -1,8 +1,9 @@
+## Locations of Twined Coins
 - Congregation - The Night Hawk has it (Dane)
-- Rictus haven - Around the neck of an entertainer (Lixi)
-- Atherand (Vikku) - In the pommel of a Lords ornamental sword.
-- Southern Embermane - In a Dragon’s Horde (Mag)
-- Dreles - High Priest of the Drowned (Barnabas)
+- Rictus haven - (Lixi)
+- Atherand - (Vikku)  
+- Southern Embermane -(Mag)
+- Dreles - (Barnabas)
 
-
+## Notes
 - Mag’s Coin was given willingly to the Cult of the Drowned
