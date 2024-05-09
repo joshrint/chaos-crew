@@ -25,3 +25,5 @@
 
 ### Notes
 Paying Barry and Eckik 2gp a month
+
+Gave Coin to [[Saint Korbinian]]

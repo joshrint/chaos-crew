@@ -11,4 +11,5 @@
 - [[Beelz]], Leonin First Mate
 - [[Welend]] - Tortle Cabin Boy
 - [[Ketzi'ah]] - Elf Lookout
-- [[Eckic Pluma | Eckic]] - Budgie Aarakocra - Works for Mag?
+- [[Eckic Pluma | Eckic]] - Budgie Aarakocra - Works for Mag
+- [[Barry]] - Blue Jay Aarakocra - Works for Mag

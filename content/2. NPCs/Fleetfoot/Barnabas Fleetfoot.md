@@ -7,6 +7,8 @@ Gender: Male
 Swashbucker Rogue
 Age: 21
 
+Head of the Carcharhinus Faction of the Drowned
+
 Well kept and enthusiastic friend of Mag.
 
 **Personality:** She tends to be very friendly, and is drawn to music

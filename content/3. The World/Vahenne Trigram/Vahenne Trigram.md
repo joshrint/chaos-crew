@@ -24,10 +24,7 @@ Location: In an adventurer's district. The street outside ominously quiet and e
 Description: The blacksmith is a brick and large single storey building, with a yellow tile roof and shuttered windows. It contains an old-looking telescope and a large hot forge in the middle of the shop.  
 [Map](https://www.kassoon.com/dnd/house-map-generator/4-8-100-100-547539-55598-9_1-Blacksmith/)
 
-Specials:
-- Shield (phb 145) (10 gp)
-- Breastplate (phb 145) (387 gp)
-- Ammunition, +1 (dmg 150) (23 gp)
+[[Mithril Anvil]]
 
 #### Maiden's Cup Inn and Tavern
 Owner: Rimple Nackle, Male Gnome 
@@ -59,10 +56,7 @@ Location: In a temple district. The street outside is crowded with shoppers.
 Description: The alchemist is a plaster cabin, with a brown shingled roof and a row of flowers around the building. A number of hunting trophies line the walls. It contains a small wood oven and a number of distillers scattered about.  
 [Map](https://www.kassoon.com/dnd/house-map-generator/4-8-100-100-502576-899509-8-Alchemist/)
 
-Specials:
-- Potion of Stone Giant Strength (dmg 187) (387 gp)
-- Potion of Climbing (dmg 187) (50 gp)
-- Potion of Greater Healing (dmg 187) (146 gp)
+[[Aromatic Cauldron]]
 
 ### Heaven Fall Crater
 The Heaven Fall Crater is the largest Adamantine mine outside of Embermane.

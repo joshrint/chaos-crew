@@ -18,3 +18,4 @@
 ### Quests
 
 ### Notes
+Half Proficiency for sailing
