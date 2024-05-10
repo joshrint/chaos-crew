@@ -1,15 +1,18 @@
 ## Effect
-Upon command, a shock weapon is sheathed in crackling electricity that deals an extra 1d6 points of chosen elemental damage on a successful hit. The type of element from the weapon does not harm the wielder. The effect remains until another command is given.
+Upon command, an elemental weapon is sheathed in energy that deals extra elemental damage on a successful hit. The type of element from the weapon does not harm the wielder. The effect remains until another command is given.
 
 ### Types of Elements
 
-| Type  | Damage        |
-| ----- | ------------- |
-| Fire  | 1d6 fire      |
-| Frost | 1d6 cold      |
-| Shock | 1d6 Lightning |
-|       |               |
+| Type      | Damage        |
+| --------- | ------------- |
+| Flaming   | 1d6 fire      |
+| Frost     | 1d6 Cold      |
+| Shock     | 1d6 Lightning |
+| Corrosive | 1d6 Acid      |
 
 
 ## Weapons
 Any melee Weapon
+
+## Tags
+#enchantmet #melee #elemental 

@@ -3,3 +3,5 @@ A mighty cleaving weapon allows a wielder to make one additional attack if the f
 
 ## Weapons
 - Any bladed weapon
+## Tags
+#enchantmet #melee #cleave

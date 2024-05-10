@@ -3,3 +3,6 @@ A called weapon can be teleported to the wielder’s hand as a Bonus Action that
 
 ## Weapons
 Any Melee or Thrown Weapon
+
+## Tags
+#enchantmet #melee #called

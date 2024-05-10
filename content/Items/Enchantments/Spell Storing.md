@@ -5,3 +5,7 @@ Once the spell has been cast from the weapon, a spellcaster can cast any other t
 A spell storing weapon emits a strong aura of the evocation school, plus the aura of the spell currently stored.
 
 ## Weapons
+Any Melee
+
+## Tags
+#enchantmet #melee #spell-storing
